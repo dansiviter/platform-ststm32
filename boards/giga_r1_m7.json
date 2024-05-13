@@ -47,7 +47,8 @@
       "dfu",
       "jlink",
       "stlink",
-      "mbed"
+      "mbed",
+      "blackmagic"
     ],
     "require_upload_port": true,
     "use_1200bps_touch": true,
