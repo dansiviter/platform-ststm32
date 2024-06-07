@@ -35,7 +35,8 @@
     "openocd_target": "stm32h7x_dual_bank"
   },
   "frameworks": [
-    "arduino"
+    "arduino",
+    "zephyr"
   ],
   "name": "Arduino Giga R1 (M7 core)",
   "upload": {
